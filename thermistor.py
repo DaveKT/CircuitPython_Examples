@@ -1,3 +1,13 @@
+# Author:   David Kolet-Tassara
+# Date:     June 15, 2017
+# Purpose:  Demonstrates the use of the thermisor on Adafruit's
+#           Circuit Python. This is simple temperature guage.
+# Required Packages:
+# neopixel
+# https://github.com/adafruit/Adafruit_CircuitPython_NeoPixel/releases
+# adafruit_thermistor
+# https://github.com/adafruit/Adafruit_CircuitPython_Thermistor/releases
+
 import time
 import neopixel
 import board
