@@ -8,14 +8,17 @@ Some of these examples require a CircuitPython package from [Adafruit's github s
 - [accelerometer.py](accelerometer.py)  
 Demonstrates the use of the lis3dh with a simple "level" program.
 
+- [max_light_reading.py](max_light_reading.py)  
+Demonstrates the use of the photoresistor to read light values.
+
 - [neopixel_scan.py](neopixel_scan.py)  
 Demonstrates the use of neopixels with a simple Cylon / KITT animation
 
+- [speaker_play_wav.py](speaker/speaker_play_wav.py)  
+Demonstrates using the speaker to play a sound file.
+
 - [thermistor.py](thermistor.py)  
 Demonstrates the use of thermistor with a simple temperature gauge.
-
-- [max_light_reading.py](max_light_reading.py)  
-Demonstrates the use of the photoresistor to read light values.
 
 ### Howto CircuitPython REPL
 
