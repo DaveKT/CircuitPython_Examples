@@ -45,4 +45,4 @@ These instructions are for Mac users though the connection should be similar for
 
 1.  Connect to the REPL (above)
 2.  Press ctrl-c to break out of any running programs and enter interactive mode.
-3.  At the prompt '>>>' enter the CircuitPython commands. *Note: functions, loops, and conditional statements can be entered on multiple lines. To enter the multiline edit mode just starting typing your multi-line command ending with ':'. Once you've completed the code block move cursor to start of blank line and hit enter twice. Loops and conditional statements will execute immediately. functions are defined and can be called using their names.  
+3.  At the prompt '>>>' enter the CircuitPython commands. *Note: functions, loops, and conditional statements can be entered on multiple lines. To enter the multiline edit mode just starting typing your multi-line command ending with ':'. Once you've completed the code block move cursor to start of blank line and hit enter twice. Loops and conditional statements will execute immediately. functions are defined and can be called using their names.*
