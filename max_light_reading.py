@@ -18,6 +18,4 @@ while True:
         x = r
         print(x)
 
-while True:
-    readMaxLight()
     time.sleep(.1)
