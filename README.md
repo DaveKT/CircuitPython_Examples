@@ -1,7 +1,7 @@
 ## CircuitPython Examples
 General example code for using the different hardware components on Adafruit's Circuit Playground Express (CPX).
 
-Most of these examples require a CircuitPython package from [Adafruit's github site](https://github.com/adafruit). Check the comments of each sample for specific package locations.
+Some of these examples require a CircuitPython package from [Adafruit's github site](https://github.com/adafruit). Check the comments of each sample for specific package locations.
 
 ### Examples
 
@@ -23,7 +23,7 @@ The REPL (Read-Eval-Print-Loop) that comes as part of the CircuitPython installa
 
 These instructions are for Mac users though the connection should be similar for other platforms.
 
-#### TO Connect to the REPL
+#### To Connect to the CPX REPL
 
 1.  Start Terminal
 2.  Connect your CPX to USB on your computer
