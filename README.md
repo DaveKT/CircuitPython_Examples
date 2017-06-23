@@ -3,6 +3,8 @@ General example code for using the different hardware components on Adafruit's C
 
 Some of these examples require a CircuitPython package from [Adafruit's github site](https://github.com/adafruit). Check the comments of each sample for specific package locations.
 
+To use these examples you must be running CircuitPython on your board. [Download the latest CP release from Adafruit](https://github.com/adafruit/circuitpython/releases). Once you have CP running, copy the example code to your CPX and rename the file main.py. 
+
 ### Examples
 
 - [accelerometer.py](accelerometer.py)  

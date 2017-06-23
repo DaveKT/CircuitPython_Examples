@@ -4,6 +4,7 @@
 #           Circuit Python. Plays a wav file.
 # Required Packages:
 # No additional packages Required
+# IMPORTANT: The watone.wav file must be loaded on the CPX.
 
 import audioio
 import digitalio
