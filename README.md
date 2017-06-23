@@ -8,6 +8,9 @@ Some of these examples require a CircuitPython package from [Adafruit's github s
 - [accelerometer.py](accelerometer.py)  
 Demonstrates the use of the lis3dh with a simple "level" program.
 
+- [buttons.py](buttons.py)  
+Demonstrates the use of buttons to drive conditional statements.
+
 - [max_light_reading.py](max_light_reading.py)  
 Demonstrates the use of the photoresistor to read light values.
 
