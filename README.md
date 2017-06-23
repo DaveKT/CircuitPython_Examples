@@ -3,7 +3,7 @@ General example code for using the different hardware components on Adafruit's C
 
 Some of these examples require a CircuitPython package from [Adafruit's github site](https://github.com/adafruit). Check the comments of each sample for specific package locations.
 
-To use these examples you must be running CircuitPython on your board. [Download the latest CP release from Adafruit](https://github.com/adafruit/circuitpython/releases). Once you have CP running, copy the example code to your CPX and rename the file main.py. 
+To use these examples you must be running CircuitPython on your board. [Download the latest CP release from Adafruit](https://github.com/adafruit/circuitpython/releases). Once you have CP running, copy the example code to your CPX and rename the file main.py.
 
 ### Examples
 
@@ -21,6 +21,9 @@ Demonstrates the use of neopixels with a simple Cylon / KITT animation
 
 - [speaker_play_wav.py](speaker/speaker_play_wav.py)  
 Demonstrates using the speaker to play a sound file.
+
+- [switch.py](switch.py)  
+Demonstrates the use of the slide switch in conditional statements.
 
 - [thermistor.py](thermistor.py)  
 Demonstrates the use of thermistor with a simple temperature gauge.
