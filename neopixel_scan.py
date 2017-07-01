@@ -24,7 +24,7 @@ def scan(t, c):
         time.sleep(t)
 
     for i in range(8,0,-1):
-        p[i] = (0,0,50)
+        p[i] = c
         p[i+1] = (0,0,0)
         p.write()
         time.sleep(t)
