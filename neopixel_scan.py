@@ -7,27 +7,27 @@
 # https://github.com/adafruit/Adafruit_CircuitPython_NeoPixel/releases
 # adafruit_thermistor
 
+import time
 import board
 import neopixel
-import time
 
 DELAY = .07
-COLOR = (0,0,50)
+COLOR = (0, 0, 50)
 
-p = neopixel.NeoPixel(board.NEOPIXEL, 10)
+PIX = neopixel.NeoPixel(board.NEOPIXEL, 10)
 
-def scan(t, c):
+def scan(tme, col):
     for i in range(10):
-        p[i] = c
-        p[i-1] = (0,0,0)
-        p.write()
-        time.sleep(t)
+        PIX[i] = col
+        PIX[i-1] = (0, 0, 0)
+        PIX.write()
+        time.sleep(tme)
 
-    for i in range(8,0,-1):
-        p[i] = c
-        p[i+1] = (0,0,0)
-        p.write()
-        time.sleep(t)
+    for i in range(8, 0, -1):
+        PIX[i] = col
+        PIX[i+1] = (0, 0, 0)
+        PIX.write()
+        time.sleep(tme)
 
 while True:
     scan(DELAY, COLOR)
