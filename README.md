@@ -10,6 +10,9 @@ To use these examples you must be running CircuitPython on your board. [Download
 - [accelerometer.py](accelerometer.py)  
 Demonstrates the use of the lis3dh with a simple "level" program.
 
+- [accelerometer_magnitude.py](accelerometer_magnitude.py)
+Demonstrates the use of the lis3dh to generate the general overall magnitude of acceleration via squareroot of the sum of x, y, & z's squares.
+
 - [buttons.py](buttons.py)  
 Demonstrates the use of buttons to drive conditional statements.
 
@@ -27,6 +30,9 @@ Demonstrates the use of the slide switch in conditional statements.
 
 - [thermistor.py](thermistor.py)  
 Demonstrates the use of thermistor with a simple temperature gauge.
+
+- [USAscan.py](USAscan.py)
+Demonstrates the use of the neopixels on Adafruit's Circuit Python. Simulates cylon scanning with USA twist.
 
 ### Howto CircuitPython REPL
 
