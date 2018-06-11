@@ -32,7 +32,7 @@ Demonstrates the use of the slide switch in conditional statements.
 Demonstrates the use of thermistor with a simple temperature gauge.
 
 - [USAscan.py](docs/USAscan.py)
-Demonstrates the use of the neopixels on Adafruit's Circuit Python. Simulates cylon scanning with USA twist.
+Demonstrates the use of the neopixels on Adafruit's Circuit Python. Simulates Cylon scanning with USA twist.
 
 ### Howto CircuitPython REPL
 
