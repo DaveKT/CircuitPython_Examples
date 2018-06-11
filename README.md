@@ -7,31 +7,31 @@ To use these examples you must be running CircuitPython on your board. [Download
 
 ### Examples
 
-- [accelerometer.py](accelerometer.py)  
+- [accelerometer.py](docs/accelerometer.py)  
 Demonstrates the use of the lis3dh with a simple "level" program.
 
-- [accelerometer_magnitude.py](accelerometer_magnitude.py)
+- [accelerometer_magnitude.py](docs/accelerometer_magnitude.py)
 Demonstrates the use of the lis3dh to generate the general overall magnitude of acceleration via squareroot of the sum of x, y, & z's squares.
 
-- [buttons.py](buttons.py)  
+- [buttons.py](docs/buttons.py)  
 Demonstrates the use of buttons to drive conditional statements.
 
-- [max_light_reading.py](max_light_reading.py)  
+- [max_light_reading.py](docs/max_light_reading.py)  
 Demonstrates the use of the photoresistor to read light values.
 
-- [neopixel_scan.py](neopixel_scan.py)  
+- [neopixel_scan.py](docs/neopixel_scan.py)  
 Demonstrates the use of neopixels with a simple Cylon / KITT animation
 
-- [speaker_play_wav.py](speaker/speaker_play_wav.py)  
+- [speaker_play_wav.py](docs/speaker/speaker_play_wav.py)  
 Demonstrates using the speaker to play a sound file.
 
-- [switch.py](switch.py)  
+- [switch.py](docs/switch.py)  
 Demonstrates the use of the slide switch in conditional statements.
 
-- [thermistor.py](thermistor.py)  
+- [thermistor.py](docs/thermistor.py)  
 Demonstrates the use of thermistor with a simple temperature gauge.
 
-- [USAscan.py](USAscan.py)
+- [USAscan.py](docs/USAscan.py)
 Demonstrates the use of the neopixels on Adafruit's Circuit Python. Simulates cylon scanning with USA twist.
 
 ### Howto CircuitPython REPL
